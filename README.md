@@ -1,3 +1,2 @@
-# bi-scripts
-Scripts for Business Intelligence related work
-All data uploaded are mock data
+# bi-script
+Scripts for Business Intelligence related work. All data are mock data.
